@@ -1,0 +1,296 @@
+{
+  "transport_mode": "TRAIN",
+  "length": 11,
+  "width": 2,
+  "door_max": 9,
+  "parts": [
+    {
+      "name": "door_LF",
+      "stage": "EXTERIOR",
+      "mirror": false,
+      "skip_rendering_if_too_far": false,
+      "door_offset": "LEFT_NEGATIVE",
+      "render_condition": "ALL",
+      "positions": [
+        [
+          0,
+          0
+        ]
+      ],
+      "whitelisted_cars": "",
+      "blacklisted_cars": ""
+    },
+    {
+      "name": "display",
+      "stage": "EXTERIOR",
+      "mirror": false,
+      "skip_rendering_if_too_far": false,
+      "door_offset": "NONE",
+      "render_condition": "ALL",
+      "positions": [
+        [
+          0,
+          0
+        ]
+      ],
+      "whitelisted_cars": "",
+      "blacklisted_cars": ""
+    },
+    {
+      "name": "buffer",
+      "stage": "EXTERIOR",
+      "mirror": false,
+      "skip_rendering_if_too_far": false,
+      "door_offset": "NONE",
+      "render_condition": "ALL",
+      "positions": [
+        [
+          0,
+          0
+        ]
+      ],
+      "whitelisted_cars": "",
+      "blacklisted_cars": ""
+    },
+    {
+      "name": "body",
+      "stage": "EXTERIOR",
+      "mirror": false,
+      "skip_rendering_if_too_far": false,
+      "door_offset": "NONE",
+      "render_condition": "ALL",
+      "positions": [
+        [
+          0,
+          0
+        ]
+      ],
+      "whitelisted_cars": "",
+      "blacklisted_cars": ""
+    },
+    {
+      "name": "door_RB",
+      "stage": "EXTERIOR",
+      "mirror": false,
+      "skip_rendering_if_too_far": false,
+      "door_offset": "RIGHT_NEGATIVE",
+      "render_condition": "ALL",
+      "positions": [
+        [
+          0,
+          0
+        ]
+      ],
+      "whitelisted_cars": "",
+      "blacklisted_cars": ""
+    },
+    {
+      "name": "door_RF",
+      "stage": "EXTERIOR",
+      "mirror": false,
+      "skip_rendering_if_too_far": false,
+      "door_offset": "RIGHT_POSITIVE",
+      "render_condition": "ALL",
+      "positions": [
+        [
+          0,
+          0
+        ]
+      ],
+      "whitelisted_cars": "",
+      "blacklisted_cars": ""
+    },
+    {
+      "name": "door_LB",
+      "stage": "EXTERIOR",
+      "mirror": false,
+      "skip_rendering_if_too_far": false,
+      "door_offset": "LEFT_POSITIVE",
+      "render_condition": "ALL",
+      "positions": [
+        [
+          0,
+          0
+        ]
+      ],
+      "whitelisted_cars": "",
+      "blacklisted_cars": ""
+    },
+    {
+      "name": "light",
+      "stage": "INTERIOR_TRANSLUCENT",
+      "mirror": false,
+      "skip_rendering_if_too_far": false,
+      "door_offset": "NONE",
+      "render_condition": "ALL",
+      "positions": [
+        [
+          0,
+          0
+        ]
+      ],
+      "whitelisted_cars": "",
+      "blacklisted_cars": ""
+    },
+    {
+      "name": "lights",
+      "stage": "INTERIOR_TRANSLUCENT",
+      "mirror": false,
+      "skip_rendering_if_too_far": false,
+      "door_offset": "NONE",
+      "render_condition": "ALL",
+      "positions": [
+        [
+          0,
+          0
+        ]
+      ],
+      "whitelisted_cars": "",
+      "blacklisted_cars": ""
+    },
+    {
+      "name": "door_LF_inside",
+      "stage": "INTERIOR_TRANSLUCENT",
+      "mirror": false,
+      "skip_rendering_if_too_far": false,
+      "door_offset": "LEFT_NEGATIVE",
+      "render_condition": "ALL",
+      "positions": [
+        [
+          0,
+          0
+        ]
+      ],
+      "whitelisted_cars": "",
+      "blacklisted_cars": ""
+    },
+    {
+      "name": "body_inside",
+      "stage": "INTERIOR_TRANSLUCENT",
+      "mirror": false,
+      "skip_rendering_if_too_far": false,
+      "door_offset": "NONE",
+      "render_condition": "ALL",
+      "positions": [
+        [
+          0,
+          0
+        ]
+      ],
+      "whitelisted_cars": "",
+      "blacklisted_cars": ""
+    },
+    {
+      "name": "credits",
+      "stage": "INTERIOR_TRANSLUCENT",
+      "mirror": false,
+      "skip_rendering_if_too_far": false,
+      "door_offset": "NONE",
+      "render_condition": "ALL",
+      "positions": [
+        [
+          0,
+          0
+        ]
+      ],
+      "whitelisted_cars": "",
+      "blacklisted_cars": ""
+    },
+    {
+      "name": "door_RB_inside",
+      "stage": "INTERIOR_TRANSLUCENT",
+      "mirror": false,
+      "skip_rendering_if_too_far": false,
+      "door_offset": "RIGHT_NEGATIVE",
+      "render_condition": "ALL",
+      "positions": [
+        [
+          0,
+          0
+        ]
+      ],
+      "whitelisted_cars": "",
+      "blacklisted_cars": ""
+    },
+    {
+      "name": "pantograph",
+      "stage": "EXTERIOR",
+      "mirror": false,
+      "skip_rendering_if_too_far": false,
+      "door_offset": "NONE",
+      "render_condition": "ALL",
+      "positions": [
+        [
+          0,
+          0
+        ]
+      ],
+      "whitelisted_cars": "",
+      "blacklisted_cars": ""
+    },
+    {
+      "name": "bogies",
+      "stage": "EXTERIOR",
+      "mirror": false,
+      "skip_rendering_if_too_far": false,
+      "door_offset": "NONE",
+      "render_condition": "ALL",
+      "positions": [
+        [
+          0,
+          0
+        ]
+      ],
+      "whitelisted_cars": "",
+      "blacklisted_cars": ""
+    },
+    {
+      "name": "sign",
+      "stage": "INTERIOR_TRANSLUCENT",
+      "mirror": false,
+      "skip_rendering_if_too_far": false,
+      "door_offset": "NONE",
+      "render_condition": "ALL",
+      "positions": [
+        [
+          0,
+          0
+        ]
+      ],
+      "whitelisted_cars": "",
+      "blacklisted_cars": ""
+    },
+    {
+      "name": "door_LB_inside",
+      "stage": "INTERIOR_TRANSLUCENT",
+      "mirror": false,
+      "skip_rendering_if_too_far": false,
+      "door_offset": "LEFT_POSITIVE",
+      "render_condition": "ALL",
+      "positions": [
+        [
+          0,
+          0
+        ]
+      ],
+      "whitelisted_cars": "",
+      "blacklisted_cars": ""
+    },
+    {
+      "name": "door_RF_inside",
+      "stage": "INTERIOR_TRANSLUCENT",
+      "mirror": false,
+      "skip_rendering_if_too_far": false,
+      "door_offset": "RIGHT_POSITIVE",
+      "render_condition": "ALL",
+      "positions": [
+        [
+          0,
+          0
+        ]
+      ],
+      "whitelisted_cars": "",
+      "blacklisted_cars": ""
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+"srt_rnet": {
+    "name": "NHNET Logo (based on srt rnet)",
+    "model": "mtrsteamloco:eyecandies/srt_rnet.obj",
+    "textureId": "mtrsteamloco:eyecandies/srt_rnetgray.png",
+    "translation": [ 0, 0, 0 ],
+    "rotation": [ 0, 0, 0 ],
+    "scale": [ 1, 1, 1 ],
+    "mirror": [ false, false, false ]
+}
+}

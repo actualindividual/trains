@@ -1,0 +1,243 @@
+{
+	"custom_trains": {
+		"hta_m2000": {
+			"name":"[HTA] m2000 Stock",
+			"color":"1a4781",
+			"base_train_type":"sp1900_small",
+			"texture_id": "mtr:trains/hta/hta_sp1900.png",
+			"description":"Håjberg Transit Authority's second type of metro train.",
+			"render_door_overlay": true
+			},
+		"class_377_furret": {
+			"name":"Furret Line Class 377",
+			"color":"a4725d",
+			"base_train_type":"class_377_southern",
+			"texture_id": "mtr:trains/class_377_furret.png",
+			"description":"Furret Line rolling stock."
+			},
+		"e44_sappho": {
+			"name":"Sappho Line Generation 2",
+			"color":"ef7627",
+			"base_train_type":"e44",
+			"texture_id": "mtr:trains/e44_sappho.png",
+			"description":"The second generation of Sappho Line rolling stock."
+			},
+		"d78_sappho": {
+			"name":"Sappho Line Generation 1",
+			"color":"ef7627",
+			"base_train_type":"london_underground_d78",
+			"texture_id": "mtr:trains/sappho_d78.png",
+			"description":"The first generation of Sappho Line rolling stock."
+			},
+		"hta_type2":{
+            "name":"[HTA] Type 2 LRV",
+            "description":"Håjberg Transit Authority's second type of light rail vehicle. Original model & textures by S43.",
+            "wikipedia_article":"",
+            "color":"62CF43",
+            "gangway_connection_id":"mtr:trains/hta/s43tec_lrt1980/testtram",
+            "train_barrier_id":"",
+            "door_animation_type":"PLUG_FAST",
+            "render_door_overlay":false,
+            "rider_offset":0.0,
+            "texture_id":"mtr:trains/hta/s43tec_lrt1980/hta_lrv_type2",
+            "model":"mtr:trains/hta/s43tec_lrt1980/s43tec_lrt1980.bbmodel",
+            "model_properties":"mtr:trains/hta/s43tec_lrt1980/s43tec_lrt1980.json",
+            "speed_sound_count": 90,
+            "speed_sound_base_id": "light_rail_aeg",
+            "door_sound_base_id": "b_druckluft"
+			},
+		"c801b_hta": {
+			"name":"[HTA] Alstom Innovia APM 300R (HTA Livery)",
+			"description":"Original model & textures by smb112x.",
+			"wikipedia_article":"",
+			"color":"47bed4",
+			"gangway_connection_id":"",
+			"train_barrier_id":"",
+			"door_animation_type":"R179",
+			"render_door_overlay":false,
+			"rider_offset":0.0,
+			"speed_sound_count": 48,
+			"speed_sound_base_id": "igbt",
+			"door_sound_base_id": "igbt",
+			"bve_sound_base_id": "igbt",
+			"has_gangway_connection": false,
+			"texture_id":"mtr:trains/hta/apm300r/c801b",
+			"model":"mtr:trains/hta/apm300r/apm300r.bbmodel",
+			"model_properties":"mtr:trains/hta/apm300r/c801b.json"
+			},
+		"hta_m1000": {
+			"name": "[HTA] m1000 class",
+			"description": "Original model & textures by JCIBravo",
+			"wikipedia_article": "",
+			"color": "FFB20C",
+			"train_barrier_id": "",
+			"has_gangway_connection": false,
+			"door_animation_type": "MTR",
+			"render_door_overlay": false,
+			"script_files": ["mtr:trains/hta/jcibravo/scripts/main.js", "mtr:trains/hta/jcibravo/scripts/fgv3600.js"],
+			"rider_offset": 0.0,
+			"speed_sound_count": 78,
+			"speed_sound_base_id": "m_train",
+			"door_sound_base_id": "m_train",
+			"texture_id": "minecraft:textures/misc/white",
+			"model": "mtr:trains/hta/jcibravo/fgv3600/motorp.obj|1;%1;|mtr:trains/hta/jcibravo/fgv3600/car.obj|;1,-1;|mtr:trains/hta/jcibravo/fgv3600/motor.obj|-1;%1,1;reversed",
+			"model_properties": "mtr:trains/hta/jcibravo/fgv3600.json",
+			"flipV": true
+			},
+		"overground_423":{
+            "name":"[Overground] Class 423",
+            "description":"Model & tetxures by teampommes199 on Modrinth.",
+            "color":"ee7c0e",
+            "base_train_type":"br_423",
+            "gangway_connection_id":"",
+            "train_barrier_id":"",
+            "door_animation_type":"SLOW",
+            "render_door_overlay":false,
+            "rider_offset":0.0,
+            "texture_id":"mtr:trains/overground/c423",
+            "model":"mtr:trains/overground/c423.bbmodel",
+            "model_properties":"mtr:trains/overground/c423.json",
+			"bve_sound_base_id": "c1"
+			}
+		},
+
+	"custom_signs": {
+		"hta_icon":{
+			"texture_id":"mtr:icons/hta_icon.png"
+		},
+		"hta_text":{
+			"texture_id":"mtr:icons/hta_icon.png",
+			"custom_text":"Håjberg Transit Authority"
+		},
+		"hta_text_left":{
+			"texture_id":"mtr:icons/hta_icon.png",
+			"custom_text":"Håjberg Transit Authority",
+			"flip_custom_text":true
+		},
+		"hta_m1_icon":{
+			"texture_id":"mtr:icons/hta_m1_logo.png"
+		},
+		"hta_m1_text":{
+			"texture_id":"mtr:icons/hta_m1_logo.png",
+			"custom_text":"HTA Metro Line 1"
+		},
+		"hta_m1_text_left":{
+			"texture_id":"mtr:icons/hta_m1_logo.png",
+			"custom_text":"HTA Metro Line 1",
+			"flip_custom_text":true
+		},
+		"hta_m2_icon":{
+			"texture_id":"mtr:icons/hta_m2_logo.png"
+		},
+		"hta_m2_text":{
+			"texture_id":"mtr:icons/hta_m2_logo.png",
+			"custom_text":"HTA Metro Line 2"
+		},
+		"hta_m2_text_left":{
+			"texture_id":"mtr:icons/hta_m2_logo.png",
+			"custom_text":"HTA Metro Line 2",
+			"flip_custom_text":true
+		},
+		"hta_m3_icon":{
+			"texture_id":"mtr:icons/hta_m3_logo.png"
+		},
+		"hta_m3_text":{
+			"texture_id":"mtr:icons/hta_m3_logo.png",
+			"custom_text":"HTA Metro Line 3"
+		},
+		"hta_m3_text_left":{
+			"texture_id":"mtr:icons/hta_m3_logo.png",
+			"custom_text":"HTA Metro Line 3",
+			"flip_custom_text":true
+		},
+		"rm_lrt_logo_icon":{
+			"texture_id":"mtr:icons/roundel3.png"
+		},
+		"rm_lrt_text":{
+			"texture_id":"mtr:icons/roundel3.png",
+			"custom_text":"RegioMetro LRT"
+		},
+		"rm_lrt_text_left":{
+			"texture_id":"mtr:icons/roundel3.png",
+			"custom_text":"RegioMetro LRT",
+			"flip_custom_text":true
+		},
+		"rm_logo_icon":{
+			"texture_id":"mtr:icons/regiometro_logo.png"
+		},
+		"rm_text":{
+			"texture_id":"mtr:icons/regiometro_logo.png",
+			"custom_text":"RegioMetro"
+		},
+		"rm_text_left":{
+			"texture_id":"mtr:icons/regiometro_logo.png",
+			"custom_text":"RegioMetro",
+			"flip_custom_text":true
+		},
+		"rm_line_a_icon":{
+			"texture_id":"mtr:icons/rm_a.png"
+		},
+		"rm_line_a_text":{
+			"texture_id":"mtr:icons/rm_a.png",
+			"custom_text":"RegioMetro Line A"
+		},
+		"rm_line_a_text_left":{
+			"texture_id":"mtr:icons/rm_a.png",
+			"custom_text":"RegioMetro Line A",
+			"flip_custom_text":true
+		},
+		"rm_line_b_icon":{
+			"texture_id":"mtr:icons/rm_b.png"
+		},
+		"rm_line_b_text":{
+			"texture_id":"mtr:icons/rm_b.png",
+			"custom_text":"RegioMetro Line B"
+		},
+		"rm_line_b_text_left":{
+			"texture_id":"mtr:icons/rm_b.png",
+			"custom_text":"RegioMetro Line B",
+			"flip_custom_text":true
+		},
+		"nhnet_exit":{
+			"texture_id":"mtr:icons/exit.png",
+			"small": true
+		},
+		"nhnet_exit_text":{
+			"texture_id":"mtr:icons/exit.png",
+			"custom_text":"Uitgang|Exit",
+			"small": true
+		},
+		"nhnet_exit_text_left":{
+			"texture_id":"mtr:icons/exit.png",
+			"custom_text":"Uitgang|Exit",
+			"small": true,
+			"flip_custom_text":true
+		},
+		"nhnet_m_red":{
+			"texture_id":"mtr:icons/nhnet_m_red.png"
+		},
+		"nhnet_m_red_text":{
+			"texture_id":"mtr:icons/nhnet_m_red.png",
+			"custom_text":"Metrolijn Rood|Metro Red Line"
+		},
+		"nhnet_m_red_text_left":{
+			"texture_id":"mtr:icons/nhnet_m_red.png",
+			"custom_text":"Metrolijn Rood|Metro Red Line",
+			"flip_custom_text":true
+		},
+		"nhnet_m_redgreen":{
+			"texture_id":"mtr:icons/nhnet_m_redgreen.png"
+		},
+		"nhnet_m_redgreen_text":{
+			"texture_id":"mtr:icons/nhnet_m_redgreen.png",
+			"custom_text":"Metrolijnen Rood en Groente
+|Metro Red & Blue Lines"
+		},
+		"nhnet_m_redgreen_text_left":{
+			"texture_id":"mtr:icons/nhnet_m_redgreen.png",
+			"custom_text":"Metrolijnen Rood en Groente
+|Metro Red & Blue Lines",
+			"flip_custom_text":true
+		}
+	}
+}

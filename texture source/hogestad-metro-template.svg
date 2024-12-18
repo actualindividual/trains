@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="160mm"
+   height="160mm"
+   viewBox="0 0 160 160"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="hogestad-metro-template.svg"
+   inkscape:export-filename="../assets/mtr/icons/hogestad-m-red.png"
+   inkscape:export-xdpi="47.625"
+   inkscape:export-ydpi="47.625"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.29310873"
+     inkscape:cx="100.64525"
+     inkscape:cy="588.51882"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer6" /><defs
+     id="defs1" /><g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Layer 1"
+     transform="translate(-32.710888,-71.369217)"><rect
+       style="fill:#bf0d3e;stroke-width:0.235185;fill-opacity:1"
+       id="rect1"
+       width="160"
+       height="160"
+       x="32.710888"
+       y="71.369217"
+       inkscape:label="rect1" /><path
+       style="display:inline;fill:#009cde;stroke-width:0.264583;fill-opacity:1"
+       d="M 32.710888,71.369217 V 231.36922 H 192.71089 Z"
+       id="path1"
+       inkscape:label="triangle" /><polygon
+       class="st2"
+       points="150.2,161.9 119.1,39 57.7,39 57.7,223.8 95.9,223.8 95,81.9 95.4,81.9 131.1,223.8 167,223.8 204.4,81.9 204.8,81.9 204.2,223.8 242.4,223.8 242.4,39 183.2,39 150.7,161.9 "
+       id="polygon2-0"
+       transform="matrix(0.64409188,0,0,0.64409188,16.064901,66.735544)"
+       inkscape:label="m"
+       style="clip-rule:evenodd;display:inline;fill:#ffffff;fill-rule:evenodd;fill-opacity:1" /></g><style
+     type="text/css"
+     id="style1">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#243C7D;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#EE3124;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st3{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-3">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#231F20;stroke:#231F20;stroke-width:0.2868;stroke-miterlimit:3.8637;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style></svg>

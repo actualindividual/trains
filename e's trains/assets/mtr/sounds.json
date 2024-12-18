@@ -1,0 +1,150 @@
+{
+	      "thyristor_open": {
+		"sounds": [
+			{
+				"name": "mtr:thyristor/open",
+				"pitch": 1
+			}
+		]
+	},
+	"thyristor_close": {
+		"sounds": [
+			{
+				"name": "mtr:thyristor/close",
+				"pitch": 1
+			}
+		]
+
+	},
+		"thyristor_motor0": {
+		"sounds": [
+			{
+				"name": "mtr:thyristor/motor0",
+				"pitch": 1,
+				"attenuation_distance": 32
+	
+			}
+		]
+      },
+	  	"thyristor_motor1": {
+		"sounds": [
+			{
+				"name": "mtr:thyristor/motor1",
+				"pitch": 1,
+				"attenuation_distance": 32
+	
+			}
+		]
+      },
+	"thyristor_loop": {
+		"sounds": [
+			{
+				"name": "mtr:thyristor/loop",
+				"pitch": 1,
+				"attenuation_distance": 32
+	
+			}
+		]
+      },
+	"thyristor_run0": {
+		"sounds": [
+			{
+				"name": "mtr:thyristor/run0",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+		      "igbt_open": {
+		"sounds": [
+			{
+				"name": "mtr:igbt/open",
+				"pitch": 1
+			}
+		]
+	},
+	"igbt_close": {
+		"sounds": [
+			{
+				"name": "mtr:igbt/close",
+				"pitch": 1
+			}
+		]
+
+	},
+		"igbt_motor0": {
+		"sounds": [
+			{
+				"name": "mtr:igbt/motor0",
+				"pitch": 1,
+				"attenuation_distance": 32
+	
+			}
+		]
+      },
+	  	"igbt_motor1": {
+		"sounds": [
+			{
+				"name": "mtr:igbt/motor1",
+				"pitch": 1,
+				"attenuation_distance": 32
+	
+			}
+		]
+      },
+	"igbt_loop": {
+		"sounds": [
+			{
+				"name": "mtr:igbt/loop",
+				"pitch": 1,
+				"attenuation_distance": 32
+	
+			}
+		]
+      },
+	"igbt_run0": {
+		"sounds": [
+			{
+				"name": "mtr:igbt/run0",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"c1_door_open": {
+         "sounds": [
+            {
+				"name":"mtr:c1/door_open",
+				"pitch": 1,
+				"attenuation_distance": 64
+            }
+        ]
+    },
+    "c1_door_close": {
+         "sounds": [
+			{
+				"name":"mtr:c1/door_close",
+				"pitch": 1,
+				"attenuation_distance": 64
+            }
+        ]
+    },
+    "c1_run": {
+        "sounds":[
+            {
+                "name": "mtr:c1/run",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "c1_motor0": {
+        "sounds":[
+            {
+                "name": "mtr:c1/motor0",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    }
+}
